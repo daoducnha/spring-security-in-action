@@ -21,6 +21,7 @@
         <module>demo</module>
         <module>chap3</module>
         <module>chap_4</module>
+        <module>chap_5</module>
     </modules>
     <dependencies>
         <dependency>
