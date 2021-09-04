@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo" />
         <module name="chap3" />
+        <module name="chap_5" />
         <module name="chap_4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chap3" target="11" />
       <module name="chap_4" target="11" />
+      <module name="chap_5" target="11" />
       <module name="demo" target="11" />
       <module name="spring-security" target="11" />
     </bytecodeTargetLevel>
@@ -22,6 +24,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="chap3" options="-parameters" />
       <module name="chap_4" options="-parameters" />
+      <module name="chap_5" options="-parameters" />
       <module name="demo" options="-parameters" />
     </option>
   </component>
