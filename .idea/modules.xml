@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-security-in-action.iml" filepath="$PROJECT_DIR$/.idea/spring-security-in-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap3/chap3.iml" filepath="$PROJECT_DIR$/chap3/chap3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security.iml" filepath="$PROJECT_DIR$/spring-security.iml" />
     </modules>
   </component>
 </project>

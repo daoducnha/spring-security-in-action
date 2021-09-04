@@ -1,0 +1,31 @@
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS authorities;
+DROP TABLE IF EXISTS my_users;
+DROP TABLE IF EXISTS my_authorities;
+
+CREATE TABLE users (
+id SERIAL NOT NULL,
+username VARCHAR(45) NOT NULL,
+password VARCHAR(45) NOT NULL,
+enabled INT NOT NULL
+);
+
+CREATE TABLE authorities (
+id SERIAL NOT NULL,
+username VARCHAR(45) NOT NULL,
+authority VARCHAR(45) NOT NULL
+);
+
+CREATE TABLE my_users (
+id SERIAL NOT NULL,
+name VARCHAR(45) NOT NULL,
+pass VARCHAR(45) NOT NULL,
+enabled INT NOT NULL
+);
+
+
+CREATE TABLE my_authorities (
+id SERIAL NOT NULL,
+name VARCHAR(45) NOT NULL,
+authority VARCHAR(45) NOT NULL
+);
