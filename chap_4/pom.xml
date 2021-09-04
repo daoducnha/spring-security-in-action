@@ -7,18 +7,16 @@
 		<artifactId>spring-security</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-
 	<groupId>com.example</groupId>
-	<artifactId>chap3</artifactId>
+	<artifactId>chap_4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chap3</name>
-	<packaging>jar</packaging>
+	<name>chap_4</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
-	<dependencies>
 
+	<dependencies>
 	</dependencies>
 
 	<build>

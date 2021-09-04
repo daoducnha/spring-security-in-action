@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chap3" />
         <module name="demo" />
+        <module name="chap3" />
+        <module name="chap_4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chap3" target="11" />
+      <module name="chap_4" target="11" />
       <module name="demo" target="11" />
       <module name="spring-security" target="11" />
     </bytecodeTargetLevel>
@@ -19,6 +21,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="chap3" options="-parameters" />
+      <module name="chap_4" options="-parameters" />
       <module name="demo" options="-parameters" />
     </option>
   </component>
