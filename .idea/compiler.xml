@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chap_4" />
-        <module name="chap3" />
+        <module name="demo" />
+        <module name="chap_8" />
+        <module name="chap_7" />
         <module name="chap_6" />
         <module name="chap_5" />
-        <module name="demo" />
+        <module name="chap_4" />
+        <module name="chap3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +20,8 @@
       <module name="chap_4" target="11" />
       <module name="chap_5" target="11" />
       <module name="chap_6" target="11" />
+      <module name="chap_7" target="11" />
+      <module name="chap_8" target="11" />
       <module name="demo" target="11" />
       <module name="spring-security" target="11" />
     </bytecodeTargetLevel>
@@ -28,6 +32,8 @@
       <module name="chap_4" options="-parameters" />
       <module name="chap_5" options="-parameters" />
       <module name="chap_6" options="-parameters" />
+      <module name="chap_7" options="-parameters" />
+      <module name="chap_8" options="-parameters" />
       <module name="demo" options="-parameters" />
     </option>
   </component>

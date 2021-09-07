@@ -23,6 +23,8 @@
         <module>chap_4</module>
         <module>chap_5</module>
         <module>chap_6</module>
+        <module>chap_7</module>
+        <module>chap_8</module>
     </modules>
     <dependencies>
         <dependency>
