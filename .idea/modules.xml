@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/chap_6/chap_6.iml" filepath="$PROJECT_DIR$/chap_6/chap_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_7/chap_7.iml" filepath="$PROJECT_DIR$/chap_7/chap_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_8/chap_8.iml" filepath="$PROJECT_DIR$/chap_8/chap_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_9/chap_9.iml" filepath="$PROJECT_DIR$/chap_9/chap_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security.iml" filepath="$PROJECT_DIR$/spring-security.iml" />
     </modules>

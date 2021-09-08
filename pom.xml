@@ -25,6 +25,7 @@
         <module>chap_6</module>
         <module>chap_7</module>
         <module>chap_8</module>
+        <module>chap_9</module>
     </modules>
     <dependencies>
         <dependency>
