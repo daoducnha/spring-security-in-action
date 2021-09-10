@@ -1,10 +1,10 @@
-package com.example.chap_9;
+package com.example.chap_10;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Chap9ApplicationTests {
+class Chap10ApplicationTests {
 
 	@Test
 	void contextLoads() {

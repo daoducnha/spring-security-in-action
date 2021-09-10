@@ -1,8 +1,6 @@
-package com.example.chap_9.config;
+package com.example.chap_10.config;
 
-import com.example.chap_9.filter.AuthenticationLoggingFilter;
-import com.example.chap_9.filter.RequestValidationFilter;
-import com.example.chap_9.filter.StaticKeyAuthenticationFilter;
+import com.example.chap_10.filter.StaticKeyAuthenticationFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

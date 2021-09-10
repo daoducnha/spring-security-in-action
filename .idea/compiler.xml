@@ -13,11 +13,15 @@
         <module name="chap_6" />
         <module name="chap_5" />
         <module name="chap_4" />
+        <module name="chap_10" />
+        <module name="chap_10_ex4" />
         <module name="chap3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chap3" target="11" />
+      <module name="chap_10" target="11" />
+      <module name="chap_10_ex4" target="11" />
       <module name="chap_4" target="11" />
       <module name="chap_5" target="11" />
       <module name="chap_6" target="11" />
@@ -31,6 +35,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="chap3" options="-parameters" />
+      <module name="chap_10" options="-parameters" />
+      <module name="chap_10_ex4" options="-parameters" />
       <module name="chap_4" options="-parameters" />
       <module name="chap_5" options="-parameters" />
       <module name="chap_6" options="-parameters" />
