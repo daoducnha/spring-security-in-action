@@ -17,6 +17,7 @@
         <module name="chap_10" />
         <module name="chap_10_ex4" />
         <module name="chap3" />
+        <module name="chap_11_business_server_2" />
         <module name="chap_11_auth_server" />
       </profile>
     </annotationProcessing>
@@ -26,6 +27,7 @@
       <module name="chap_10_ex4" target="11" />
       <module name="chap_11_auth_server" target="11" />
       <module name="chap_11_business_server" target="11" />
+      <module name="chap_11_business_server_2" target="11" />
       <module name="chap_4" target="11" />
       <module name="chap_5" target="11" />
       <module name="chap_6" target="11" />
@@ -43,6 +45,7 @@
       <module name="chap_10_ex4" options="-parameters" />
       <module name="chap_11_auth_server" options="-parameters" />
       <module name="chap_11_business_server" options="-parameters" />
+      <module name="chap_11_business_server_2" options="-parameters" />
       <module name="chap_4" options="-parameters" />
       <module name="chap_5" options="-parameters" />
       <module name="chap_6" options="-parameters" />
