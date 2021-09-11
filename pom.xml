@@ -28,6 +28,8 @@
         <module>chap_9</module>
         <module>chap_10</module>
         <module>chap_10_ex4</module>
+        <module>chap_11_auth_server</module>
+        <module>chap_11_business_server</module>
     </modules>
     <dependencies>
         <dependency>

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo" />
+        <module name="chap_11_business_server" />
         <module name="chap_9" />
         <module name="chap_8" />
         <module name="chap_7" />
@@ -16,12 +17,15 @@
         <module name="chap_10" />
         <module name="chap_10_ex4" />
         <module name="chap3" />
+        <module name="chap_11_auth_server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chap3" target="11" />
       <module name="chap_10" target="11" />
       <module name="chap_10_ex4" target="11" />
+      <module name="chap_11_auth_server" target="11" />
+      <module name="chap_11_business_server" target="11" />
       <module name="chap_4" target="11" />
       <module name="chap_5" target="11" />
       <module name="chap_6" target="11" />
@@ -37,6 +41,8 @@
       <module name="chap3" options="-parameters" />
       <module name="chap_10" options="-parameters" />
       <module name="chap_10_ex4" options="-parameters" />
+      <module name="chap_11_auth_server" options="-parameters" />
+      <module name="chap_11_business_server" options="-parameters" />
       <module name="chap_4" options="-parameters" />
       <module name="chap_5" options="-parameters" />
       <module name="chap_6" options="-parameters" />
