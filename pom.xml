@@ -31,6 +31,7 @@
         <module>chap_11_auth_server</module>
         <module>chap_11_business_server</module>
         <module>chap_11_business_server_2</module>
+        <module>chap_12</module>
     </modules>
     <dependencies>
         <dependency>
