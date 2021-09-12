@@ -32,7 +32,8 @@
         <module>chap_11_business_server</module>
         <module>chap_11_business_server_2</module>
         <module>chap_12</module>
-        <module>chap_13</module>
+        <module>chap_13_grant_type_password</module>
+        <module>chap_13_grant_type_code</module>
     </modules>
     <dependencies>
         <dependency>
