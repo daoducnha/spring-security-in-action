@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chap_12" />
+        <module name="chap_13" />
         <module name="chap_10" />
         <module name="chap_11_business_server_2" />
         <module name="demo" />
@@ -30,6 +31,7 @@
       <module name="chap_11_business_server" target="11" />
       <module name="chap_11_business_server_2" target="11" />
       <module name="chap_12" target="11" />
+      <module name="chap_13" target="11" />
       <module name="chap_4" target="11" />
       <module name="chap_5" target="11" />
       <module name="chap_6" target="11" />
@@ -49,6 +51,7 @@
       <module name="chap_11_business_server" options="-parameters" />
       <module name="chap_11_business_server_2" options="-parameters" />
       <module name="chap_12" options="-parameters" />
+      <module name="chap_13" options="-parameters" />
       <module name="chap_4" options="-parameters" />
       <module name="chap_5" options="-parameters" />
       <module name="chap_6" options="-parameters" />

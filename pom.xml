@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.5.4</version>
+        <version>2.3.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
@@ -32,6 +32,7 @@
         <module>chap_11_business_server</module>
         <module>chap_11_business_server_2</module>
         <module>chap_12</module>
+        <module>chap_13</module>
     </modules>
     <dependencies>
         <dependency>
