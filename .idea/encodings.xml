@@ -8,8 +8,17 @@
     <file url="file://$PROJECT_DIR$/chap_11_business_server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chap_11_business_server_2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chap_12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_13_grant_type_client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chap_13_grant_type_code/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chap_13_grant_type_password/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_15_asymmetric_key_as/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_15_asymmetric_key_as_v3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_15_asymmetric_key_rs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_15_asymmetric_key_rs_v2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_15_asymmetric_key_rs_v3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_15_symmetric_key_as/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_15_symmetric_key_rs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_15_symmetric_key_rs_v2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chap_4/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chap_5/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chap_6/src/main/java" charset="UTF-8" />

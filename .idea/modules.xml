@@ -10,7 +10,16 @@
       <module fileurl="file://$PROJECT_DIR$/chap_11_business_server_2/chap_11_business_server_2.iml" filepath="$PROJECT_DIR$/chap_11_business_server_2/chap_11_business_server_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_12/chap_12.iml" filepath="$PROJECT_DIR$/chap_12/chap_12.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_13_grant_type_password/chap_13.iml" filepath="$PROJECT_DIR$/chap_13_grant_type_password/chap_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_13_grant_type_client/chap_13_grant_type_client.iml" filepath="$PROJECT_DIR$/chap_13_grant_type_client/chap_13_grant_type_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_13_grant_type_code/chap_13_grant_type_code.iml" filepath="$PROJECT_DIR$/chap_13_grant_type_code/chap_13_grant_type_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_15_asymmetric_key_as/chap_15_asymmetric_key_as.iml" filepath="$PROJECT_DIR$/chap_15_asymmetric_key_as/chap_15_asymmetric_key_as.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_15_asymmetric_key_as_v3/chap_15_asymmetric_key_as_v3.iml" filepath="$PROJECT_DIR$/chap_15_asymmetric_key_as_v3/chap_15_asymmetric_key_as_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_15_asymmetric_key_rs/chap_15_asymmetric_key_rs.iml" filepath="$PROJECT_DIR$/chap_15_asymmetric_key_rs/chap_15_asymmetric_key_rs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_15_asymmetric_key_rs_v2/chap_15_asymmetric_key_rs_v2.iml" filepath="$PROJECT_DIR$/chap_15_asymmetric_key_rs_v2/chap_15_asymmetric_key_rs_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_15_asymmetric_key_rs_v3/chap_15_asymmetric_key_rs_v3.iml" filepath="$PROJECT_DIR$/chap_15_asymmetric_key_rs_v3/chap_15_asymmetric_key_rs_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_15_symmetric_key_as/chap_15_symmetric_key_as.iml" filepath="$PROJECT_DIR$/chap_15_symmetric_key_as/chap_15_symmetric_key_as.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_15_symmetric_key_rs/chap_15_symmetric_key_rs.iml" filepath="$PROJECT_DIR$/chap_15_symmetric_key_rs/chap_15_symmetric_key_rs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_15_symmetric_key_rs_v2/chap_15_symmetric_key_rs_v2.iml" filepath="$PROJECT_DIR$/chap_15_symmetric_key_rs_v2/chap_15_symmetric_key_rs_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_4/chap_4.iml" filepath="$PROJECT_DIR$/chap_4/chap_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_5/chap_5.iml" filepath="$PROJECT_DIR$/chap_5/chap_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_6/chap_6.iml" filepath="$PROJECT_DIR$/chap_6/chap_6.iml" />

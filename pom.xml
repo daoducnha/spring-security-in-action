@@ -34,6 +34,15 @@
         <module>chap_12</module>
         <module>chap_13_grant_type_password</module>
         <module>chap_13_grant_type_code</module>
+        <module>chap_13_grant_type_client</module>
+        <module>chap_15_symmetric_key_as</module>
+        <module>chap_15_symmetric_key_rs</module>
+        <module>chap_15_symmetric_key_rs_v2</module>
+        <module>chap_15_asymmetric_key_as</module>
+        <module>chap_15_asymmetric_key_rs</module>
+        <module>chap_15_asymmetric_key_rs_v2</module>
+        <module>chap_15_asymmetric_key_as_v3</module>
+        <module>chap_15_asymmetric_key_rs_v3</module>
     </modules>
     <dependencies>
         <dependency>
