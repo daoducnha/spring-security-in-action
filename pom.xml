@@ -43,6 +43,8 @@
         <module>chap_15_asymmetric_key_rs_v2</module>
         <module>chap_15_asymmetric_key_as_v3</module>
         <module>chap_15_asymmetric_key_rs_v3</module>
+        <module>chap_15_custom_jwt_as</module>
+        <module>chap_15_custom_jwt_rs</module>
     </modules>
     <dependencies>
         <dependency>

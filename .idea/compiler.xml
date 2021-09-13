@@ -9,6 +9,8 @@
         <module name="chap_11_business_server_2" />
         <module name="demo" />
         <module name="chap_15_asymmetric_key_rs" />
+        <module name="chap_15_custom_jwt_rs" />
+        <module name="chap_15_custom_jwt_as" />
         <module name="chap_9" />
         <module name="chap_8" />
         <module name="chap_7" />
@@ -49,6 +51,8 @@
       <module name="chap_15_asymmetric_key_rs" target="11" />
       <module name="chap_15_asymmetric_key_rs_v2" target="11" />
       <module name="chap_15_asymmetric_key_rs_v3" target="11" />
+      <module name="chap_15_custom_jwt_as" target="11" />
+      <module name="chap_15_custom_jwt_rs" target="11" />
       <module name="chap_15_symmetric_key_as" target="11" />
       <module name="chap_15_symmetric_key_rs" target="11" />
       <module name="chap_15_symmetric_key_rs_v2" target="11" />
@@ -79,6 +83,8 @@
       <module name="chap_15_asymmetric_key_rs" options="-parameters" />
       <module name="chap_15_asymmetric_key_rs_v2" options="-parameters" />
       <module name="chap_15_asymmetric_key_rs_v3" options="-parameters" />
+      <module name="chap_15_custom_jwt_as" options="-parameters" />
+      <module name="chap_15_custom_jwt_rs" options="-parameters" />
       <module name="chap_15_symmetric_key_as" options="-parameters" />
       <module name="chap_15_symmetric_key_rs" options="-parameters" />
       <module name="chap_15_symmetric_key_rs_v2" options="-parameters" />
